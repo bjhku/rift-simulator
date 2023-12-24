@@ -1,0 +1,30 @@
+{
+  "name": "rift-simulator",
+  "version": "1.0.0",
+  "description": "An api for League of Legends that allows you to select combinations of champions, runes and items, and view a summary of their stats at a given time in the game, as well as their interactions with enemies or allies, such as damage dealt, healing done, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjhku/rift-simulator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjhku/rift-simulator/issues"
+  },
+  "homepage": "https://github.com/bjhku/rift-simulator#readme",
+  "devDependencies": {
+    "@types/jsdom": "*",
+    "@types/lodash": "*",
+    "@types/node": "*",
+    "json5": "*",
+    "node-fetch": "*",
+    "lodash": "*",
+    "jsdom": "*",
+    "parenthesis": "*",
+    "mathjs": "*"
+  }
+}
